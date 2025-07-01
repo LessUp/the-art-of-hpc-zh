@@ -2,6 +2,8 @@
 
 [![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![GitHub release](https://img.shields.io/github/release/LessUp/the-art-of-hpc-zh.svg)](https://github.com/LessUp/the-art-of-hpc-zh/releases)
+[![GitHub stars](https://img.shields.io/github/stars/LessUp/the-art-of-hpc-zh.svg?style=social&label=Star)](https://github.com/LessUp/the-art-of-hpc-zh/stargazers)
 
 本仓库致力于 Victor Eijkhout 开源著作 [The Art of HPC](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) 系列的中文翻译，推动高性能计算（HPC）知识在中文社区的普及与发展。
 
@@ -47,27 +49,7 @@
 
 ## 贡献指南 🤝
 
-欢迎任何人参与本项目的翻译、校对和改进！贡献流程如下：
-
-1. **Fork 本仓库**，新建分支进行翻译或修订
-2. **翻译流程**：
-   - 选择要翻译的章节
-   - 创建新分支：`git checkout -b feat/translate-chapterX`
-   - 提交翻译内容
-3. **提交规范**：
-   ```bash
-   git commit -m "feat: 添加第X章翻译"
-   ```
-4. **创建 Pull Request**：
-   - 描述翻译内容和修改点
-   - 关联相关Issue（如有）
-5. **术语与风格**：
-   - 统一采用学术界主流术语
-   - 保持技术准确性，优化中文表达
-   - 所有代码注释均需翻译
-   - 参考[术语对照表](术语对照表.md)
-
-> 📢 如有疑问或建议，请在 [Issues 区](https://github.com/your-repo/issues) 留言讨论
+欢迎任何人参与本项目的翻译、校对和改进！详细指南请参阅[CONTRIBUTING.md](CONTRIBUTING.md)文件。
 
 特别感谢 Victor Eijkhout 教授开源原著！
 
@@ -77,6 +59,6 @@
 
 ---
 
-> ⭐ 如果本项目对您有帮助，欢迎 Star 支持！  
-> 🍴 欢迎 Fork 参与翻译改进  
+> ⭐ 如果本项目对您有帮助，欢迎 [Star](https://github.com/LessUp/the-art-of-hpc-zh/stargazers) 支持！  
+> 🍴 欢迎 [Fork](https://github.com/LessUp/the-art-of-hpc-zh/fork) 参与翻译改进  
 > 📢 分享给更多 HPC 爱好者！
